@@ -3,35 +3,39 @@
 Project Name: Library Management System
 
 Group Members:
-Aryan Devikar (191070007)
-Athrava Patil (191070053)
-Sahil Kedare (191070036)
+1. Aryan Devikar (191070007)
+2. Athrava Patil (191070053)
+3. Sahil Kedare (191070036)
 
 CONTENTS
 
 ------------
 
-*Introduction
-*Tools/Libraries Used
-*Project Files
-*Summary
-*Future Scope
+1. Introduction
+2. Tools/Libraries Used
+3. Project Files
+4. Summary
+5. Future Scope
 
 ------------
 
 
 INTRODUCTION: 
+
 Our project aim was to create a library management system which provides
 some functionalities to the user and also to come up with a clean user 
 interface for the same
 
 TOOLS/LIBRARIES USED:
+
 The user will need to have the following libraries installed:
 1. Tkinter
 2. Python Imaging Library (also known as PIL or pillow)
+
 The user will also need to have the MySQL server installed in their system
 
 PROJECT FILES:
+
 Given are the project files 
 1. main.py
 2. AddBook.py
