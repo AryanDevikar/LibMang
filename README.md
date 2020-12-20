@@ -1,30 +1,34 @@
 # LibMang
 
+------------
+
 Project Name: Library Management System
 
+------------
+
 Group Members:
+
 1. Aryan Devikar (191070007)
 2. Athrava Patil (191070053)
 3. Sahil Kedare (191070036)
 
-CONTENTS
-
 ------------
+
+CONTENTS
 
 1. Introduction
 2. Tools/Libraries Used
 3. Project Files
-4. Summary
-5. Future Scope
 
 ------------
-
 
 INTRODUCTION: 
 
 Our project aim was to create a library management system which provides
 some functionalities to the user and also to come up with a clean user 
 interface for the same
+
+------------
 
 TOOLS/LIBRARIES USED:
 
@@ -33,6 +37,8 @@ The user will need to have the following libraries installed:
 2. Python Imaging Library (also known as PIL or pillow)
 
 The user will also need to have the MySQL server installed in their system
+
+------------
 
 PROJECT FILES:
 
@@ -44,18 +50,6 @@ Given are the project files
 5. IssueBook.py
 6. ReturnBook.py
 
-SUMMARY:
-
-So we have successfully designed a Library Management System using python and 
-tkinter. We have created multiple files in order to modularise the project and
-to help it being easier to understand.
-
-FUTURE SCOPE:
-
-We can take this project a step further by making a tab which helps keep track 
-of the previous books being issued. Likewise, we can also keep track of the date 
-the books have been issued and check whether the book has been returned on time
-or not. Also, we can integrate a login system which can help to authenticate a
-user before they can login.
+------------
 
 
